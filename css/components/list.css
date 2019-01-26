@@ -1,0 +1,25 @@
+.list{
+	display: flex;
+	align-items: center;
+	margin-bottom: 5px;
+	padding: 10px;
+}
+
+.list:hover{
+	background: #E6E6E6; 
+}
+
+.description{
+	flex: 1 0 auto;
+	padding: 0 10px;
+}
+
+.numbers{
+	text-align: center;
+	padding: 10px
+}
+
+.sns a{
+	font-size: 15px;
+	color: #A9A9A9;
+}

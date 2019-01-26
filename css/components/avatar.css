@@ -1,0 +1,9 @@
+.avatar{
+	border-radius: 50px;
+	width: 50px;
+}
+
+.avatar-small{
+	border-radius: 50px;
+	width: 30px;
+}
